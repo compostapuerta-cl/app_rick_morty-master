@@ -1,0 +1,10 @@
+.spaceship {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  z-index: 999;
+}
+
+.spaceship img {
+  width: 100%;
+}
